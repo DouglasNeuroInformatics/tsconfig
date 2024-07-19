@@ -1,0 +1,53 @@
+{
+  "name": "@douglasneuroinformatics/tsconfig",
+  "type": "module",
+  "version": "0.0.1",
+  "packageManager": "pnpm@9.3.0",
+  "description": "TypeScript configuration for DNP projects",
+  "author": "Joshua Unrau",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/DouglasNeuroinformatics/tsconfig#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DouglasNeuroInformatics/tsconfig.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DouglasNeuroInformatics/tsconfig/issues"
+  },
+  "main": "tsconfig.json",
+  "keywords": [
+    "typescript",
+    "typescript-config"
+  ],
+  "files": [
+    "tsconfig.json"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "typescript": "^5.4.3"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^19.2.1",
+    "@commitlint/config-conventional": "^19.1.0",
+    "@douglasneuroinformatics/prettier-config": "^0.0.1",
+    "@douglasneuroinformatics/semantic-release": "^0.0.1",
+    "husky": "^9.0.11",
+    "prettier": "^3.2.5"
+  },
+  "scripts": {
+    "prepare": "husky"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "prettier": "@douglasneuroinformatics/prettier-config",
+  "release": {
+    "extends": [
+      "@douglasneuroinformatics/semantic-release"
+    ]
+  }
+}
