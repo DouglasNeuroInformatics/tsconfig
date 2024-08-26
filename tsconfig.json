@@ -1,13 +1,10 @@
 {
   "compilerOptions": {
-    "allowJs": true,
-    "allowSyntheticDefaultImports": true,
-    "checkJs": true,
+    "allowSyntheticDefaultImports": false,
     "esModuleInterop": false,
     "forceConsistentCasingInFileNames": true,
     "isolatedModules": true,
     "lib": ["ESNext"],
-    "maxNodeModuleJsDepth": 0,
     "module": "Node16",
     "moduleDetection": "force",
     "moduleResolution": "Node16",
@@ -17,10 +14,9 @@
     "noImplicitOverride": true,
     "noImplicitReturns": true,
     "noUncheckedIndexedAccess": true,
-    "resolveJsonModule": true,
     "skipLibCheck": true,
     "strict": true,
-    "target": "ES2022",
+    "target": "ESNext",
     "useDefineForClassFields": true,
     "verbatimModuleSyntax": true
   }
