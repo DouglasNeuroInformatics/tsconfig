@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/DouglasNeuroInformatics/tsconfig/compare/v1.0.1...v1.0.2) (2024-08-26)
+
+
+### Bug Fixes
+
+* adjust rules ([7ea3239](https://github.com/DouglasNeuroInformatics/tsconfig/commit/7ea3239bc9b4a5d9b35a4045f384a89572c3359e))
+
 ## [1.0.1](https://github.com/DouglasNeuroInformatics/tsconfig/compare/v1.0.0...v1.0.1) (2024-07-19)
 
 
