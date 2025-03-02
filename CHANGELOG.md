@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.3](https://github.com/DouglasNeuroInformatics/tsconfig/compare/v1.0.2...v1.0.3) (2025-03-02)
+
+### Bug Fixes
+
+* set noErrorTruncation ([a0f5cb1](https://github.com/DouglasNeuroInformatics/tsconfig/commit/a0f5cb1adc2391a7dfc5ed486712c1d34e85067b))
+
 ## [1.0.2](https://github.com/DouglasNeuroInformatics/tsconfig/compare/v1.0.1...v1.0.2) (2024-08-26)
 
 
