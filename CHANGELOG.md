@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.5](https://github.com/DouglasNeuroInformatics/tsconfig/compare/v1.0.4...v1.0.5) (2025-10-28)
+
+### Bug Fixes
+
+* update typescript to v5.9 ([929caaf](https://github.com/DouglasNeuroInformatics/tsconfig/commit/929caaf15961d7beeb54cf7aae6c7623814be3d4))
+
 ## [1.0.4](https://github.com/DouglasNeuroInformatics/tsconfig/compare/v1.0.3...v1.0.4) (2025-07-11)
 
 ### Bug Fixes
