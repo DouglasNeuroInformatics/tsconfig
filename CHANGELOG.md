@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.0.0](https://github.com/DouglasNeuroInformatics/tsconfig/compare/v1.0.5...v2.0.0) (2026-04-08)
+
+### ⚠ BREAKING CHANGES
+
+* see typescript v6
+
+### Bug Fixes
+
+* update typescript to v6 ([50049c9](https://github.com/DouglasNeuroInformatics/tsconfig/commit/50049c963f17fbe0b39124f4a7c0931bd4176c7f))
+
 ## [1.0.5](https://github.com/DouglasNeuroInformatics/tsconfig/compare/v1.0.4...v1.0.5) (2025-10-28)
 
 ### Bug Fixes
