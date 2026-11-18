@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.0.0](https://github.com/DouglasNeuroInformatics/tsconfig/compare/v2.0.0...v3.0.0) (2026-11-18)
+
+### ⚠ BREAKING CHANGES
+
+* requires typescript 7.0.x; typescript 6 is no longer supported
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+
+### Features
+
+* require typescript 7 ([5438186](https://github.com/DouglasNeuroInformatics/tsconfig/commit/5438186053a38e6cdb5903eda330646393c799f6))
+
 ## [2.0.0](https://github.com/DouglasNeuroInformatics/tsconfig/compare/v1.0.5...v2.0.0) (2026-04-08)
 
 ### ⚠ BREAKING CHANGES
